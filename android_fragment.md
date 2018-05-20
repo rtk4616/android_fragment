@@ -49,6 +49,11 @@
 
 * [Android 精通自定义视图(2) - 简书](https://www.jianshu.com/p/092e126b623f)
 
+* [Android UI ListView講解 - 代碼家](https://www.dayexie.com/detail649569.html)
+
+* [Android初级躲不开的那些坑 | OCNYang](http://ocnyang.com/2016/08/31/AndroidGu/)
+
+
 
 android:focusable=false
 android:descendantFocussability=blocksDescendants
