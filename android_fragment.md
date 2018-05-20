@@ -1,5 +1,55 @@
 # /home/bootcode/bin/md/android_fragment
 
+<!-- slide -->
+
+# * [介紹 | W3School 菜鸟笔记 Android 基础入门教程](https://wizardforcel.gitbooks.io/w3school-android/content/)
+<!-- slide -->
+
+# * [ListView中Spinner的使用 - CSDN博客](https://blog.csdn.net/yangzl2008/article/details/7785401)
+<!-- slide -->
+
+# * [在Listview里面加入Spinner - CSDN博客](https://blog.csdn.net/z449077880/article/details/46430281)
+<!-- slide -->
+
+# * [在Listview里面加入Spinner - CSDN博客](https://blog.csdn.net/z449077880/article/details/46430281)
+
+
+
+<!-- slide -->
+
+# * [listView当中有嵌套了有onClickListener的控件时ListView自身的onItemClick无响应的解决方案 - CSDN博客](https://blog.csdn.net/yangzl2008/article/details/7761999)
+
+
+<!-- slide -->
+
+# * [ListView里面嵌套spinner和editext - CSDN博客](https://blog.csdn.net/qq_31552755/article/details/51801163)
+
+<!-- slide -->
+
+# * [ExpandableListAdapter Tutorial With Example In Android Studio](http://abhiandroid.com/ui/expandablelistadapter-example-android.html)
+
+<!-- slide -->
+
+# * [【Android學習】列表（ListView、RecyclerView)和adapter - 代碼家](http://www.dayexie.com/detail1772938.html)
+
+<!-- slide -->
+
+# * [Android Listview with spinner and radio button - Stack Overflow](https://stackoverflow.com/questions/32417388/android-listview-with-spinner-and-radio-button)
+
+
+* [Android高手进阶教程(十五)---Android中万能的BaseAdapter(Spinner,ListView,GridView)的使用！ - 爱专集](http://www.aizhuanji.com/a/Xw7GkqZw.html)
+
+* [Android高手进阶教程(十五)---Android中万能的BaseAdapter(Spinner,ListView,GridView)的使用！ - 爱专集](http://www.aizhuanji.com/a/Xw7GkqZw.html)
+
+* [android listview 中button 冲突问题，不同情况不同解决方案 - 爱专集](http://www.aizhuanji.com/a/0VaKaRbx.html)
+
+* [Android自定义适配器---实现简单文件管理器_Android自定义适配器 - 触屏版 - 阿里云](https://m.aliyun.com/jiaocheng/55239.html)
+
+* [Android 初级躲不开的那些坑 - Android - 掘金](https://juejin.im/entry/596c16236fb9a06bbe7de339)
+
+* [Android 精通自定义视图(2) - 简书](https://www.jianshu.com/p/092e126b623f)
+
+
 android:focusable=false
 android:descendantFocussability=blocksDescendants
 这是因为spinner把item容器的焦点抢走了，你要给最外层layout添加一个属性：
