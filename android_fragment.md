@@ -261,3 +261,6 @@ android:descendantFocusability="blocksDescendants"。
 不僅在滑動有效率，也不會有這篇產生的問題。
 
 
+<!-- slide -->
+
+# * [Android Development](http://tjach.pl/tresc/uploads/2014/11/sm_wyk14.pdf)
